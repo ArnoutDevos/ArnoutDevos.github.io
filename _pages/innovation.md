@@ -1,13 +1,14 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+title: 🚀 innovation
+permalink: /innovation/
+description: A collection of my (hopefully) innovative projects.
+nav: false
 nav_order: 2
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
+
 
 <!-- pages/projects.md -->
 <div class="projects">

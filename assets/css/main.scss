@@ -13,3 +13,12 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+th
+        {
+        padding         : .5em .5em;
+        }
+td
+        {
+        padding         : .5em .5em;
+        }
