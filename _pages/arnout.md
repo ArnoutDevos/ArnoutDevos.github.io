@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Arnout Devos
+title: about
 permalink: /
 subtitle: PhD candidate in Computer Science @ <a style="color:red;" href="https://www.epfl.ch"><b>EPFL</b></a> • President @ <a href="https://www.s2s.vc">S2S Ventures</a> • <i>educate ⇄ research ⇆ innovate</i> # <b>ML Research</b> @ EPFL  •  Previously: USC / Spotify / Amazon  •  build ⇄ measure ⇆ learn <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
