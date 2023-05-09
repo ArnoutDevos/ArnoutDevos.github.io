@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Computer Science @ <a style="color:red;" href="https://www.epfl.ch"><b>EPFL</b></a> • President @ <a href="https://www.s2s.vc">S2S Ventures</a> • <i>educate ⇄ research ⇆ innovate</i> # <b>ML Research</b> @ EPFL  •  Previously: USC / Spotify / Amazon  •  build ⇄ measure ⇆ learn <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD candidate in Computer Science @ <a style="color:red;" href="https://www.epfl.ch"><b>EPFL</b></a> • <i>educate ⇄ research ⇆ innovate</i> # <b>ML Research</b> @ EPFL  •  Previously: USC / Spotify / Amazon  •  build ⇄ measure ⇆ learn <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
@@ -18,13 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-👋 Hi, I am Arnout, a PhD candidate in the [School of Computer and Communication Sciences](https://ic.epfl.ch) at <a style="color:red;" href="https://ic.epfl.ch"><b>EPFL</b></a>🇨🇭, and a Marie-Curie fellow 🇪🇺.
+👋 Hi, I am Arnout, a PhD candidate in Computer Science at <a style="color:red;" href="https://ic.epfl.ch"><b>EPFL</b></a>🇨🇭, and a Marie-Curie fellow 🇪🇺.
 
-**Research** interests include few-shot learning, probabilistic modeling, and automating machine learning. <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a> lists all my research papers. Currently, I am focusing on few-shot uncertainty quantification with applications in vote prediction: demo on [Predikon.ch](https://www.predikon.ch).
+**Research** interests include few-shot learning, probabilistic modeling, and automating machine learning. <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a> lists all my research papers.
 
-**Innovation** & **education** are other passions. Examples include: joining the entrepreneurial PhD program [EPFLinnovators](https://actu.epfl.ch/news/epflinnovators-arnout-devos/), building the world's largest student VC fund [S2S Ventures](https://www.s2s.vc/), indie-making [OkNoName](https://www.OkNoName.com/) course forums, and co-founding the [ETH-EPFL Summer School on Sciencepreneurship](https://sciencepreneurship.ethz.ch).
+**Innovation** & **education** are other passions. Examples include: joining the entrepreneurial PhD program [EPFLinnovators](https://actu.epfl.ch/news/epflinnovators-arnout-devos/), building the world's largest student VC fund [S2S Ventures](https://www.s2s.vc/), co-founding [OkNoName](https://www.OkNoName.com/) course forums, and co-founding the [ETH-EPFL Sciencepreneurship Summer School](https://sciencepreneurship.ethz.ch).
 
-Previously, I obtained my MS in CS at <a href="https://www.usc.edu" style="color:#E74C3C;">USC</a> 🇺🇸, as a <a href="https://baef.be/baef-fellows/#2017"  style="color:#3498DB;">BAEF</a> fellow, and MS/MS/BS in Management/EE/EECS at <a href="https://www.kuleuven.be" style="color:#3498DB;">KU Leuven</a> 🇧🇪.
+**Previously**, I obtained my MS in CS at <a href="https://www.usc.edu" style="color:#E74C3C;">USC</a> 🇺🇸, as a <a href="https://baef.be/baef-fellows/#2017"  style="color:#3498DB;">BAEF</a> fellow, and MS/MS/BS in Management/EE/EECS at <a href="https://www.kuleuven.be" style="color:#3498DB;">KU Leuven</a> 🇧🇪.
 I have been an intern at <a href="https://research.atspotify.com/" style="color:green;">Spotify</a>, <a href="https://www.amazon.science/" style="color:darkorange;">Amazon</a>, <a href="https://bmir.stanford.edu/" style="color:#E74C3C;">Stanford</a>, <a href="https://www.epfl.ch/labs/rfic/" style="color:red;">EPFL</a>, and <a href="https://www.plm.automation.siemens.com/global/en/" style="color:#3498DB;">Siemens</a>. For more, check my profile on <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a>. A detailed resume/CV is available upon request.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
