@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 🚀 innovation
-permalink: /innovation/
+title: 🚀 innovate
+permalink: /innovate/
 description: A collection of my (hopefully) innovative projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+nav: true
+nav_order: 3
+display_categories: [innovate]
 horizontal: true
 ---
 
@@ -21,7 +21,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
