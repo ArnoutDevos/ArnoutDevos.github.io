@@ -7,6 +7,31 @@ importance: 1
 category: [educate, innovate]
 ---
 
+<style type="text/css">
+  .videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+</style>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 videoWrapper">
+        {% include video.html path="https://drive.google.com/file/d/1pt36ClH30DaC5fuh8gvjI2Z9IZjHbuH2/preview" width="auto" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+            [DRAFT] video summarizing the ETH-EPFL Sciencepreneurship Summer School 2023.
+        </div>
+
 Going 0️⃣➡️1️⃣ can be very hard but very rewarding: starting from an idea 🌱, partnering up with my long-time collaborator Julia Wagner 🤝, and in April 2023 successfully delivering the first ETH-EPFL Sciencepreneurship Summer School in Zurich, Switzerland, has been exactly such a rewarding journey! 🚀
 
 🔥 This is a story of intersecting supportive #innovation communities and setting them up for #success. We succeeded in bringing together an exclusive but diverse group of 30 of the most entrepreneurial graduate #students from globally leading #universities with experienced #sciencepreneurs and ecosystem players.
@@ -27,15 +52,24 @@ Going 0️⃣➡️1️⃣ can be very hard but very rewarding: starting from an
 </div>
 
 # Community
-The program is foremost about bringing together a community of students, successful sciencepreneurs, top academics, and ecosystem players.
+The program is foremost about bringing together a community of students, experienced sciencepreneurs, top academics, and ecosystem players.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/speakers_slide_rearranged.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/3S_speakers_slide.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Part of the community are a unique selection of successful sciencepreneurs and ecosystem players.
+    Part of the community are a unique selection of experienced sciencepreneurs and ecosystem players.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3S_participants_slide.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The participants selected who took part in the summer school program.
 </div>
 
 
@@ -89,7 +123,7 @@ Almost every day there was a panel, moderated by Réginald Bien-Aimé, with thre
     </div>
 </div>
 <!-- <div class="caption">
-    3 panel discussions with successful sciencepreneurs, funding experts & lawyers, and top academics.
+    3 panel discussions with experienced sciencepreneurs, funding experts & lawyers, and top academics.
 </div> -->
 
 ## Socials 🥂
@@ -130,9 +164,8 @@ All these learnings culminated in team project pitches with jury Christophe Mose
 
 # Acknowledgements 🙏
 Next to thanking foremost the best possible co-organizer Julia Wagner, there are many people and organizations to thank here, including:
-- EPFL and ETH Zürich for providing the joint Summer School framework!
+- EPFL and ETH Zurich for providing the [EPFL-ETH Summer](https://www.epfl.ch/education/phd/doctoral-studies-structure/customized-curricula/summer-schools/summer-schools-with-eth-zurich/) [School framework](https://ethz.ch/en/research/young-researchers/doctoral-students/call-summer-school.html)!
 - Our official partners: ETH AI Center, EPFL CIS, Gebert Ruf Stiftung, Kellerhals Carrard, Wingman Ventures, QBIT Capital.
-- My professional network and my incredibly supportive mentors! They know who they are ;).
 - A special mention goes to our formal academic supporters and reliable professors Christophe Moser (EPFL) and Hans Gersbach (ETH Zurich).
 - I acknowledge funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No. 754354.
 
