@@ -14,13 +14,16 @@ Going 0️⃣➡️1️⃣ can be very hard but very rewarding: starting from an
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3S_organizers_dozentenfoyer.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Going from an idea & 2 co-founders (Arnout & Julia) ...
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3S_community_dozentenfoyer.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            ... to a vibrant summer school and community!
+        </div>
     </div>
-</div>
-<div class="caption">
-    Going from an idea and 2 co-founders, to a vibrant summer school and community!
 </div>
 
 # Community
@@ -125,12 +128,13 @@ All these learnings culminated in team project pitches with jury Christophe Mose
     </div>
 </div>
 
-# Thanks 🙏
+# Acknowledgements 🙏
 Next to thanking foremost the best possible co-organizer Julia Wagner, there are many people and organizations to thank here, including:
 - EPFL and ETH Zürich for providing the joint Summer School framework!
 - Our official partners: ETH AI Center, EPFL CIS, Gebert Ruf Stiftung, Kellerhals Carrard, Wingman Ventures, QBIT Capital.
 - My professional network and my incredibly supportive mentors! They know who they are ;).
 - A special mention goes to our formal academic supporters and reliable professors Christophe Moser (EPFL) and Hans Gersbach (ETH Zurich).
+- I acknowledge funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No. 754354.
 
 # Conclusion and Future 🔮
 I am incredibly grateful for all the spontaneous positive oral, email, and text messages as well as the participants' unexpected tasty gift to us, the organizers! 🍫
