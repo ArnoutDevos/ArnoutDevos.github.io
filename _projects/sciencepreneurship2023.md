@@ -25,11 +25,11 @@ category: [educate, innovate]
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 videoWrapper">
-        {% include video.html path="https://drive.google.com/file/d/1pt36ClH30DaC5fuh8gvjI2Z9IZjHbuH2/preview" width="auto" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/vOJf0tLD6P8" width="auto" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-            [DRAFT] video summarizing the ETH-EPFL Sciencepreneurship Summer School 2023.
+            3 minute video giving highlights of the ETH-EPFL Sciencepreneurship Summer School 2023.
         </div>
 
 Going 0️⃣➡️1️⃣ can be very hard but very rewarding: starting from an idea 🌱, partnering up with my long-time collaborator Julia Wagner 🤝, and in April 2023 successfully delivering the first ETH-EPFL Sciencepreneurship Summer School in Zurich, Switzerland, has been exactly such a rewarding journey! 🚀
