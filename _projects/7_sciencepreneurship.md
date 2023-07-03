@@ -80,7 +80,7 @@ The 1 ECTS credit program and its lecturers were definitely not your average cou
 - day 1:
     - #opportunity identification by Anil Sethi (ETH Zurich)
     - #vision by Alex Ilic (ETH AI Center)
-    - #team by Antonia Albert (Wingamn Ventures)
+    - #team by Antonia Albert (Wingman Ventures)
     - #pitching design by Isabelle Siegrist (Sandborn)
 - day 2:
     - tech #commercialization by Jana Thiel (ETH Zurich)
