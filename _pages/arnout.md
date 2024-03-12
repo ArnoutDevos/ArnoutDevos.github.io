@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Computer Science @ <a style="color:red;" href="https://www.epfl.ch"><b>EPFL</b></a> • <i>educate ⇄ research ⇆ innovate</i> # <b>ML Research</b> @ EPFL  •  Previously: USC / Spotify / Amazon  •  build ⇄ measure ⇆ learn <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD candidate in Artificial Intelligence @ <a style="color:red;" href="https://www.epfl.ch"><b>EPFL</b></a> • <i>educate ⇄ research ⇆ innovate</i> # <b>ML Research</b> @ EPFL  •  Previously: USC / Spotify / Amazon  •  build ⇄ measure ⇆ learn <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
@@ -10,17 +10,16 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>[first].[last]@epfl.ch,</p>
-    <p><a href="https://plan.epfl.ch/?dim_floor=2&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=2532737&map_y=1152291&map_zoom=12">Office BC264</a>, EPFL,</p>
-    <p>Lausanne, Switzerland🇨🇭</p>
+    <p>📍Lausanne, Switzerland</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-👋 Hi, I am Arnout, a PhD candidate in Computer Science at <a style="color:red;" href="https://ic.epfl.ch"><b>EPFL</b></a>🇨🇭, and a Marie-Curie fellow 🇪🇺.
+👋 Hi, I am Arnout, a final year PhD candidate in Artificial Intelligence (AI) at <a style="color:red;" href="https://ic.epfl.ch"><b>EPFL</b></a>🇨🇭, and a Marie-Curie fellow 🇪🇺.
 
-**Research** interests include few-shot learning, probabilistic modeling, and automating machine learning. <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a> lists all my research papers.
+**Research** interests include few-shot learning and automating machine learning. <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a> lists all my research papers.
 
 **Innovation** & **education** are other passions. Examples include: building the independent student VC fund [S2S Ventures](https://www.s2s.vc/), joining the entrepreneurial PhD program [EPFLinnovators](https://actu.epfl.ch/news/epflinnovators-arnout-devos/), and co-founding the [ETH-EPFL Sciencepreneurship Summer School](https://sciencepreneurship.ch).
 
