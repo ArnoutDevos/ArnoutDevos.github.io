@@ -254,12 +254,12 @@ ninja.data = [{
               window.location.href = "/projects/aicats/";
             },},{id: "projects-few-shot-learning-for-ml-adaptation",
           title: 'Few-shot Learning for ML Adaptation',
-          description: "My PhD thesis on investigating and developing few-shot learning solutions for more effective and more efficient machine learning model adaptation.",
+          description: "My PhD thesis is about investigating and developing few-shot learning solutions for more effective and more efficient machine learning model adaptation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fewshotlearningphd/";
             },},{id: "projects-sciencepreneurship-summer-school",
           title: 'Sciencepreneurship Summer School',
-          description: "A weeklong program that brings together entrepreneurial graduate students, experienced sciencepreneurs, and ecosystem players. I co-founded and led the organization of the first edition, which has now grown into the bigger Sciencepreneurship Community.",
+          description: "An intensive week-long program that brings together entrepreneurial graduate students, experienced sciencepreneurs, and ecosystem players. I co-founded and led the organization of the first edition, which has now grown into the bigger Sciencepreneurship Community.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sciencepreneurship2023/";
             },},{id: "projects-afc-student-startup-forum-2017",
