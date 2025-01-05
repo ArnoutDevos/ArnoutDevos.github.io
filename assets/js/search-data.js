@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-educate",
-          title: "🎓 educate",
-          description: "A collection of my educational endeavours, at the service of others.",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of my projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/educate/";
-          },
-        },{id: "nav-research",
-          title: "🔬 research",
-          description: "Redirect to my Google Scholar",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "nav-innovate",
-          title: "🚀 innovate",
-          description: "A collection of my (hopefully) innovative projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/innovate/";
+            window.location.href = "/projects/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
@@ -39,6 +25,17 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+        
+      },
+    },{id: "post-a-post-with-echarts",
+      
+        title: "a post with echarts",
+      
+      description: "this is what included echarts code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/echarts/";
         
       },
     },{id: "post-eth-epfl-sciencepreneurship-summer-school-2023",
@@ -250,44 +247,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-eth-ai-center-academic-talk-series",
+          title: 'ETH AI Center Academic Talk Series',
+          description: "AICATS is a talk series I led to foster meaningful connections and knowledge exchange between ETH AI Center&#39;s 100+ Faculty, 10+ Postdoctoral Fellows, 50+ Doctoral Fellows, and wider academic community.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/aicats/";
+            },},{id: "projects-few-shot-learning-for-ml-adaptation",
+          title: 'Few-shot Learning for ML Adaptation',
+          description: "My PhD thesis on investigating and developing few-shot learning solutions for more effective and more efficient machine learning model adaptation.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-eth-epfl-sciencepreneurship-summer-school-2023",
-          title: 'ETH-EPFL Sciencepreneurship Summer School 2023',
-          description: "An overview on the results of organizing the first entrepreneurial ETH-EPFL Summer School.",
+              window.location.href = "/projects/fewshotlearningphd/";
+            },},{id: "projects-sciencepreneurship-summer-school",
+          title: 'Sciencepreneurship Summer School',
+          description: "A weeklong program that brings together entrepreneurial graduate students, experienced sciencepreneurs, and ecosystem players. I co-founded and led the organization of the first edition, which has now grown into the bigger Sciencepreneurship Community.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sciencepreneurship2023/";
             },},{id: "projects-afc-student-startup-forum-2017",
