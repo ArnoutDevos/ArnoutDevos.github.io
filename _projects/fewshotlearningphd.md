@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Few-shot Learning for ML Adaptation
-description: My PhD thesis on investigating and developing few-shot learning solutions for more effective and more efficient machine learning model adaptation.
+description: My PhD thesis is about investigating and developing few-shot learning solutions for more effective and more efficient machine learning model adaptation.
 img: assets/img/EPFL_TH9878.pdf.jpg
 importance: 2
 category: [research]

@@ -11,9 +11,9 @@
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
-            <div class="row ml-1 mr-1 p-0">
+            <div class="row ml-1 mr-1">
               {% for category in project.category %}
-              <span class="badge badge-primary">{{ category }}</span>
+              <span class="badge badge-secondary mr-1">{{ category }}</span>
             {% endfor %}
             </div>
             <div class="row ml-1 mr-1 p-0">
