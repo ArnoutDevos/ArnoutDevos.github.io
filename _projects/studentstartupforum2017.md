@@ -3,8 +3,8 @@ layout: page
 title: AFC Student Startup Forum 2017
 description: An overview on the results of organizing the Student Startup Forum 2017
 img: assets/img/afc_student_startup_forum_2017.jpeg
-importance: 2
-category: [innovate]
+importance: 3
+category: [innovation, events]
 ---
 
 <style type="text/css">

@@ -15,8 +15,10 @@ layout: default
   </header>
 
   <article>
+    <div class="container">
+    <div class="row">
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="col-md-4 p-0 mr-3 profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -48,7 +50,9 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix" style="text-align: justify;">{{ content }}</div>
+    <div class="col-md-8 p-0 clearfix col-xl" style="text-align: justify;">{{ content }}</div>
+    </div>
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -72,6 +76,14 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Selected projects -->
+    {% if page.selected_projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Selected Projects</a>
+      </h2>
+      {% include selected_projects.liquid %}
     {% endif %}
 
     {% if site.newsletter.enabled and site.footer_fixed %}

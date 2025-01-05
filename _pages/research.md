@@ -3,9 +3,9 @@ layout: page
 title: 🔬 research
 permalink: /research/
 description: Redirect to my Google Scholar
-nav: true
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, research]
 horizontal: false
 # redirect_to:
 #   - https://scholar.google.com/citations?user=S_6zsEwAAAAJ

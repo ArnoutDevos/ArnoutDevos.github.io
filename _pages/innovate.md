@@ -3,9 +3,9 @@ layout: page
 title: 🚀 innovate
 permalink: /innovate/
 description: A collection of my (hopefully) innovative projects.
-nav: true
+nav: false
 nav_order: 3
-display_categories: [innovate]
+display_categories: [innovation]
 horizontal: true
 ---
 

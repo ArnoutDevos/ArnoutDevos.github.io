@@ -3,11 +3,12 @@ layout: page
 permalink: /educate/
 title: 🎓 educate
 description: A collection of my educational endeavours, at the service of others.
-nav: true
+nav: false
 nav_order: 1
-display_categories: [educate]
+display_categories: [education]
 horizontal: true
 ---
+
 
 <!-- pages/projects.md -->
 <div class="projects">

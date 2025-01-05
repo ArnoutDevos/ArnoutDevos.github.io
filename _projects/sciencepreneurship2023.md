@@ -1,10 +1,11 @@
 ---
 layout: page
-title: ETH-EPFL Sciencepreneurship Summer School 2023
-description: An overview on the results of organizing the first entrepreneurial ETH-EPFL Summer School.
+title: Sciencepreneurship Summer School
+description: A weeklong program that brings together entrepreneurial graduate students, experienced sciencepreneurs, and ecosystem players. I co-founded and led the organization of the first edition, which has now grown into the bigger Sciencepreneurship Community.
 img: assets/img/3S_community_dozentenfoyer.jpg
-importance: 1
-category: [educate, innovate]
+importance: 3
+category: [innovation, events]
+selected: true
 ---
 
 <style type="text/css">
