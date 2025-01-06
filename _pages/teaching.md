@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+description: Overview of the courses I teach in artificial intelligence (AI) and innovation.
+nav: true
+pretty_table: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Spring 2025
 
-Organize your courses by years, topics, or universities, however you like!
+| Institute(s) | Level | Credits | Course Title |
+| :-----------    | :------------ | :------------ | :------------ |
+| ETH Zurich       |    PhD/MS |    4    | AI Center Projects in Machine Learning Research |
+| ETH Zurich       |    PhD/MS |    3    |  Large-Scale AI Engineering |
+| ETH Zurich       |    MS  |    10    | Data Science Lab |
+| HSG & ETH Zurich |    MS/MA  |    3    | Technology and Entrepreneurship |
+
+<br/><br/>
+## Fall 2024
+
+| Institute(s) | Level | Credits | Course Title |
+| :-----------    | :------------ | :------------ | :------------ |
+| ETH Zurich       |    MS  |    10    | Data Science Lab |
+| HSG & ETH Zurich |    MS/MA  |    3    | Technology and Entrepreneurship |
+| HSG & ETH Zurich |    MS/MA  |    2    | Technology Investing |
